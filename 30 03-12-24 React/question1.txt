@@ -1,0 +1,9 @@
+<!--
+
+Display the NavBar with Title as "Student App, and two nav items as follows:
+"Add Student", "View Students". 
+where, 
+ - Add Student should have form to capture Student information
+ - View Student should display all students information.(Ex-1).
+
+-->

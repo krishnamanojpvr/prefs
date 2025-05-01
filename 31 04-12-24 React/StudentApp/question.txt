@@ -1,0 +1,6 @@
+<!--
+Open the React App, go to Students Table (View Students) Component, 
+- Each row should have Delete button to remove student data from Database,
+ - Display an alert message, "Student(s) deleted successfully".
+
+-->

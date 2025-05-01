@@ -1,0 +1,13 @@
+<!--
+Open the React App, go to Students Table (View Students) Component,
+Add a button with name Update for each of the row in the table.
+
+ - Each row should have an ID, "row201", "row202",.. (i.e., row+rollno)
+ - Each button in the row, should have an ID, "update201", "update202",.. 
+   (i.e., update+rollno)
+Update Student:
+ - Clicking the Update button makes the scores in the row editable.
+ - After editing, clicking Submit updates the database (PUT /student/:rollNo).
+ - The table should refresh automatically to reflect the updated scores.
+
+-->

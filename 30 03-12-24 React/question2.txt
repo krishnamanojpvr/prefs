@@ -1,0 +1,8 @@
+<!--
+
+Display all the students information in a table using ReactJS having the following
+column names: Name, Roll Number, Java, CPP, Python, GenAI, FSD
+Table Name in an H3 tag above the table with name: Students List
+
+Also a form to add student
+-->
